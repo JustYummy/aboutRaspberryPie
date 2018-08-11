@@ -1,4 +1,4 @@
-## [⚠️友情提醒] 本教程从网上收集总结得来，由于安装耗时过长并没有验证过，只是作为学习材料
+## ⚠️[友情提醒] 本教程从网上收集总结得来，由于安装耗时过长并没有验证过，只是作为学习材料
 ### 如何在树莓派3B上装Windows10 arm
 
 #### 需要材料：
@@ -55,7 +55,7 @@
 # English version  
 ### How to install Windows10 arm version for Raspberry 3B
 
-## [⚠️Warning] Something about install win10 arm into raspberry pie, but it's not verified
+## ⚠️[Warning] Something about install win10 arm into raspberry pie, but it's not verified
 
 #### Requirements：
 
